@@ -1,0 +1,5 @@
+
+zos:
+  endPoint: https://test-10.zos.example.cn
+  accessKey: 123456
+  secretKey: 123456
